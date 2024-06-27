@@ -1,0 +1,25 @@
+{
+    "seed": 123,
+    "opinion": "I would go for Volkswagen, cause VW is about reliability, and also love the phrase from VW ads - 'Volkswagen - das Auto'",
+    "BMW": {
+        "count": 16,
+        "mean_price": 4895312.5,
+        "old_year": 2011,
+        "new_year": 2020,
+        "moda_fuel": "Diesel"
+    },
+    "Ford": {
+        "count": 60,
+        "mean_price": 536616.67,
+        "old_year": 2004,
+        "new_year": 2019,
+        "moda_fuel": "Diesel"
+    },
+    "Volkswagen": {
+        "count": 24,
+        "mean_price": 433416.67,
+        "old_year": 2010,
+        "new_year": 2019,
+        "moda_fuel": "Diesel"
+    }
+}
